@@ -36,7 +36,7 @@
 
 ## 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,tensorflow,pytorch,js,react,nextjs,html,css,tailwind,bootstrap,mysql,mongodb,postgres,git,github,vscode,figma,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,numpy,pandas,seaborn,matplotlib,sklearn,tensorflow,opencv,js,express,react,nextjs,html,css,tailwind,bootstrap,mysql,mongodb,postgres,redis,git,github,vscode,figma,docker,linux,gcp,aws" />
 </p>
 
 ---
