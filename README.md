@@ -39,10 +39,10 @@
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,sklearn,opencv,tensorflow,html,css,tailwind,bootstrap,js,express,react,nextjs" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,linux,gcp,aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,linux,gcp,aws,firebase" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman,googlecolab" />
+  <img src="https://skillicons.dev/icons?i=vscode,anaconda,git,github,docker,figma,postman" />
 </p>
 
 ---
