@@ -36,26 +36,19 @@
 
 ## 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,sklearn,opencv,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,sklearn,opencv,tensorflow,js,express,react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,express,react,nextjs,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,chromadb,linux,gcp,aws,firebase" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,chromadb" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,gcp,aws,firebase" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman,colab,jupyternotebook" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?username=nikhivishwaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=nikhivishwaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
 </p>
 
@@ -69,7 +62,7 @@
 - 🚀 **[Dentify AI](https://github.com/nikhivishwaa/Dentify-AI)** - AI-powered tooth disease detection system.  
 - 📊 **[Finance Goal Tracker](https://github.com/nikhivishwaa/finance-chatbot)** - Smart chatbot for budgeting & investments.  
 - 🏬 **[E-commerce Platform](https://github.com/nikhivishwaa/eCommerce-Django)** - Scalable online store using Django.  
-- ♟️ **[Online Chess Platform](https://github.com/nikhivishwaa/Chess-Django-React)** - Play chess with AI & friends.  
+- ♟️ **[Online Chess Platform](https://github.com/nikhivishwaa/Chess-Django-React)** - Play chess with friends.  
 
 ---
 
