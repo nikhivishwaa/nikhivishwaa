@@ -54,9 +54,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nikhivishwaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhivishwaa&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="49%" />
 </p>
-<div style="margin: 10px;">
+<!-- <div style="margin: 10px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhivishwaa&theme=tokyonight" alt="Nikhil Vishwakarma" />
-</div>
+</div> -->
 
 ---
 
@@ -64,13 +64,10 @@
 🚀 **[Dentify AI](https://github.com/nikhivishwaa/Dentify-AI)**  
 > AI-powered **Tooth Disease Detection System** using **Deep Learning**  
 
-📊 **[Finance Goal Tracker](https://github.com/nikhivishwaa/finance-chatbot)**  
-> Smart AI chatbot for **Budgeting, Expense Tracking & Investments**  
-
-🏬 **[E-commerce Platform](https://github.com/nikhivishwaa/eCommerce-Django)**  
+🏬 **[E-commerce Platform](https://github.com/nikhivishwaa/JKart-Ecommerce-Website)**  
 > Scalable **Online Store** built with **Django & React**  
 
-♟️ **[Online Chess Platform](https://github.com/nikhivishwaa/Chess-Django-React)**  
+♟️ **[Online Chess Platform](https://github.com/nikhivishwaa/Multiplayer-Online-Chess)**  
 > **Play Chess** with friends in real-time  
 
 ---
