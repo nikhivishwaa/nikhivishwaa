@@ -36,13 +36,13 @@
 
 ## 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,sklearn,opencv,tensorflow,js,express,react,nextjs,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,sklearn,opencv,tensorflow,html,css,tailwind,bootstrap,js,express,react,nextjs" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,chromadb,linux,gcp,aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,linux,gcp,aws,firebase" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman,colab,jupyternotebook" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman,googlecolab" />
 </p>
 
 ---
