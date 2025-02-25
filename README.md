@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Vishwakarma</h1>
+<h1 align="center">Hey there! 👋 I'm Nikhil Vishwakarma</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2AA889&width=800&height=50&lines=Full+Stack+ML+Engineer+%7C+AI+Enthusiast;Building+AI-powered+products+%7C+Tech+Innovator;Problem+Solver+%7C+Lifelong+Learner;Passionate+about+Web+%26+AI+Development">
@@ -7,16 +7,18 @@
 ---
 
 ## 🚀 About Me  
-- 💡 I love creating AI-powered solutions and solving real-world problems with **Deep Learning, NLP, and Computer Vision**.  
-- 🛠️ Currently working on: **AI-powered tools for startups & Finance Goal Tracker Chatbot**.  
-- 🌱 Constantly upskilling in **Generative AI, MLOps, and Product Management**.  
-- 🎯 Passionate about **building scalable AI applications** and **leading tech teams**.  
-- 📫 Reach me at: [nikhivishwa@gmail.com](mailto:nikhivishwa@gmail.com)  
-- 🔗 Checkout my portfolio: [My Portfolio](https://nikhivishwa.vercel.app/)  
+- 🤖 Passionate about **AI-powered solutions**, solving real-world problems with **Deep Learning, NLP, and Computer Vision**  
+- 💡 Currently building: **AI-powered Startup Tools & Finance Goal Tracker Chatbot**  
+- 📈 Exploring **Generative AI, MLOps, and Product Management**  
+- 🏆 Active in **Hackathons, Open Source, and Tech Communities**  
+- 🔥 Always up for **collaborating on exciting AI & Web projects**  
+
+📩 Reach me at: [nikhivishwa@gmail.com](mailto:nikhivishwa@gmail.com)  
+🌐 Check out my portfolio: [nikhivishwa.vercel.app](https://nikhivishwa.vercel.app/)  
 
 ---
 
-## 🌎 Connect with Me  
+## 🌎 Let's Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhivishwa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -34,7 +36,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ My Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,sklearn,opencv,tensorflow,html,css,tailwind,bootstrap,js,express,react,nextjs" />
 </p>
@@ -47,26 +49,30 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Insights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhivishwaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhivishwaa&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="49%" />
 </p>
 
 ---
 
-## ⚡ Recent Projects  
-- 🚀 **[Dentify AI](https://github.com/nikhivishwaa/Dentify-AI)** - AI-powered tooth disease detection system.  
-- 📊 **[Finance Goal Tracker](https://github.com/nikhivishwaa/finance-chatbot)** - Smart chatbot for budgeting & investments.  
-- 🏬 **[E-commerce Platform](https://github.com/nikhivishwaa/eCommerce-Django)** - Scalable online store using Django.  
-- ♟️ **[Online Chess Platform](https://github.com/nikhivishwaa/Chess-Django-React)** - Play chess with friends.  
+## ⚡ Featured Projects  
+🚀 **[Dentify AI](https://github.com/nikhivishwaa/Dentify-AI)**  
+> AI-powered **Tooth Disease Detection System** using **Deep Learning**  
+
+📊 **[Finance Goal Tracker](https://github.com/nikhivishwaa/finance-chatbot)**  
+> Smart AI chatbot for **Budgeting, Expense Tracking & Investments**  
+
+🏬 **[E-commerce Platform](https://github.com/nikhivishwaa/eCommerce-Django)**  
+> Scalable **Online Store** built with **Django & React**  
+
+♟️ **[Online Chess Platform](https://github.com/nikhivishwaa/Chess-Django-React)**  
+> **Play Chess** with friends in real-time  
 
 ---
 
-### 🎯 Fun Fact:  
-💡 I believe **"AI is a tool, not a replacement. It amplifies human potential!"**  
+## 🎯 Fun Fact  
+💡 **"AI is not a replacement. It's a tool that amplifies human potential!"**  
 
-🚀 Let's connect and innovate together! 🚀  
+🚀 Let's connect and build the future of AI together! 🚀  
