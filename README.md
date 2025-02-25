@@ -55,7 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhivishwaa&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="49%" />
 </p>
 <div style="margin: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhivishwaa&theme=swift" alt="Reuben Stephen John" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhivishwaa&theme=tokyonight" alt="Nikhil Vishwakarma" />
 </div>
 
 ---
