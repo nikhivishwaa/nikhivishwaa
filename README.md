@@ -36,14 +36,20 @@
 
 ## 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,numpy,pandas,seaborn,matplotlib,sklearn,tensorflow,opencv,js,express,react,nextjs,html,css,tailwind,bootstrap,mysql,mongodb,postgres,redis,git,github,vscode,figma,docker,linux,gcp,aws" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,sklearn,opencv,tensorflow,js,express,react,nextjs,html,css,tailwind,bootstrap,mysql,mongodb,postgres,redis" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,gcp,aws,firebase" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhivishwaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?username=nikhivishwaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=nikhivishwaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
 </p>
 
